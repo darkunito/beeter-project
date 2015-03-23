@@ -8,6 +8,7 @@ Instrucciones de instalación y ejecución de la API de beeter-project
 
 Acceder al directorio donde se encuentra el proyecto
 >mvn clean
+
 >mvn package 
 
 
