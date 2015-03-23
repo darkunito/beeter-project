@@ -10,6 +10,7 @@ Acceder al directorio donde se encuentra el proyecto
 >mvn clean
 >mvn package 
 
+
 3- Copiar el archivo .war generado (./target/beeter-api.war) en la carpeta /webapps del directorio donde tengamos instalado Tomcat
 
 4- Construcción de la BD en MySQL Acceder a MySQL como root y llamar (source) al archivo beeterdb-user.sql Acceder a MySQL con los datos del nuevo usuario (beeter, beeter) y llamar al archivo beeteradb-schema.sql
